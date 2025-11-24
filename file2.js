@@ -8,4 +8,3 @@ let result = marks >= 35 ? "Pass" : "Fail";
 // c) Arrow function greet(name) with ternary operator for default "Guest"
 const greet = name => console.log(`Hello, ${name ? name : "Guest"}`);
 
-aravind.alla@fionasolutions.com
